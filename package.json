@@ -8,7 +8,7 @@
     "dev": "nodemon app.js",
     "lint": "npx eslint --fix .",
     "prt": "prettier --write .",
-    "vercel-build": "echo hello world"
+    "vercel-build": "echo hello"
   },
   "repository": {
     "type": "git",
